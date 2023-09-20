@@ -1,0 +1,6 @@
+{
+  "name": "heroku redirect",
+  "description": "redirect to REDIRECT_URL defined in env var",
+  "repository": "https://github.com/mathio/heroku-redirect",
+  "keywords": ["node", "redirect"]
+}
